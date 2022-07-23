@@ -1,5 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 /* Colour pallete #28282B- matte black #jet -black */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
 * {
   font-family: 'Lato', sans-serif;
 }
@@ -31,4 +34,13 @@
   padding: 10px;
   box-shadow: 10px 10px 5px #0e0e0f;
   margin: 30px;
+}
+a {
+  text-decoration: none;
+  color: #ff4500;
+}
+a:hover {
+  opacity: 0.5;
+  text-decoration: none;
+  color: #ff4500;
 }
