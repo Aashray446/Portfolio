@@ -1,0 +1,14 @@
+.stack {
+  border: 1px solid white;
+  margin: 5px;
+  padding: 10px;
+  color: red;
+}
+.center {
+  margin-bottom: 25px;
+}
+
+a{
+border: 1px solid white;
+padding: 4px;
+}
